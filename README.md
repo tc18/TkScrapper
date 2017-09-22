@@ -1,3 +1,3 @@
 # TkScrapper
 # Ongoing
-Scrapping Resume from PDF &amp; LinkedIn and represent it in Graph by converting data in Json format.
+Scrapping profile and jobs from LinkedIn and store it in excel sheet.
